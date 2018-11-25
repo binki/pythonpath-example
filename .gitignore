@@ -1,0 +1,8 @@
+# Editor swap files
+*.swp
+*~
+*\#*
+
+# Python stuffages
+*.pyo
+*.pyc
